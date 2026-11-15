@@ -169,4 +169,19 @@ explain what was performed, what was discovered, what the observation means, wha
 create, and what can be done to reduce that risk.
 Finally, I learned that reconnaissance and scanning must always be performed within an authorized
 scope. These activities were completed as part of the assigned educational cybersecurity lab.
+## 3.findings -external footprinting
 
+### 3.1 Task 1: whois -Domain registration
+![whois](screenshoot/whois.png)
+
+### 3.2 Task 2: nslookup - Resolution
+![nslookup](screenshot/nslookup.png)
+
+### 3.3 Task 3: curl -l -HTTP headers
+![curl](screenshot/curl.png)
+
+### 3.4 Task 4: wafw00f -web application firewall
+![wafw00f](screenshot/wafw00f.png)
+
+### 3.5 Task 5 : dsrecon
+![dsrecon](screenshot/dsrecon.png)
