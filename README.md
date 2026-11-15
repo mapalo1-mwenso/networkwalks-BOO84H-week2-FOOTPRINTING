@@ -72,12 +72,16 @@ addresses, and generate a network topology.
 I first used the Windows ipconfigcommand to identify my local IP address and LAN subnet. I then
 entered the subnet into Zenmap and selected Ping Scan to identify active hosts.
 This is the information i received after running the work.
+
 ●10.0.0.1
+
 ●10.0.0.2
+
 ●10.0.0.10
+
 After completing the scan, I opened the Topology section in Zenmap, enabled the legend and saved
 the network topology in PDF format as required by the practical task.
-Pentesting Project Report | Networkwalks | Page 35. Risk Analysis / Impact
+
 Based on the information collected during the footprinting and network scanning activities, I identified
 the following potential risks.
 Risk / FindingEvidence /
