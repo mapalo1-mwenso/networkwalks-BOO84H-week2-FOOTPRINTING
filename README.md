@@ -176,16 +176,16 @@ scope. These activities were completed as part of the assigned educational cyber
 ## 3.findings -external footprinting
 
 ### 3.1 Task 1: whois -Domain registration
-![whois](screenshoot/whois.png)
+![whois](whois.png)
 
 ### 3.2 Task 2: nslookup - Resolution
-![nslookup](screenshot/nslookup.png)
+![nslookup](nslookup.png)
 
 ### 3.3 Task 3: curl -l -HTTP headers
-![curl](screenshot/curl.png)
+![curl-l](curl-l.png)
 
 ### 3.4 Task 4: wafw00f -web application firewall
-![wafw00f](screenshot/wafw00f.png)
+![wafw00f](wafw00f.png)
 
 ### 3.5 Task 5 : dsrecon
-![dsrecon](screenshot/dsrecon.png)
+![dsrecon](dsrecon.png)
